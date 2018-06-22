@@ -1,3 +1,5 @@
+# **FLYTTET TIL https://github.com/SKDE-Analyse/sas_codes**  
+
 # Hvordan produsere filene
 
 - Konvertere filene fra utf-8 til windows-format
